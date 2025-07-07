@@ -1,4 +1,4 @@
-extends "OpenModule.pkl"
+extends "openModule.pkl"
 
 foo = "foo"
 

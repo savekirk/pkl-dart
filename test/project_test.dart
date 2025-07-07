@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'package:pkl_dart/src/evaluation/module_source.dart';
 import 'package:test/test.dart';
 import 'package:pkl_dart/pkl_dart.dart';
 import 'package:pkl_dart/src/project.dart';
